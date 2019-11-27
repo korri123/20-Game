@@ -1,0 +1,1 @@
+/Applications/Unity/Hub/Editor/2019.2.13f1/Unity.app/Contents/MacOS/Unity -projectPath /Users/kormakur/Workshop -batchmode -nographics -quit -buildTarget WebGL -executeMethod BuildScript.PerformBuild
